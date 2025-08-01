@@ -1,6 +1,8 @@
 # MergeConflict
 
-<pre lang="markdown"> ```markdown 🚀 Repository Structure (In Progress): 
+🚀 Repository Structure (In Progress):
+
+<pre lang="markdown">
 ├── src/ # Core logic (parser, test runner) 
 ├── prompts/ # Prompt design drafts 
 ├── research/ # Background reading & analysis 
@@ -8,4 +10,4 @@
 ├── tests/ # Pytest scripts and test cases 
 ├── meeting_minutes/ # Weekly team meeting notes 
 ├── .env.example # Environment variable template 
-└── README.md # Project overview (this file) ``` </pre>
+└── README.md # Project overview (this file) </pre>
